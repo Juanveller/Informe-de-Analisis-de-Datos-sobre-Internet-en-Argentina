@@ -81,7 +81,20 @@ Hojas Analizadas:
 
 ### **Resultados y Conclusiones**
 
-### **Recomendaciones Finales**
+El análisis realizado sobre la conectividad en Argentina ha puesto de manifiesto varias realidades y oportunidades en el ámbito de las telecomunicaciones:
+
+**Calidad del servicio:**
+
+Las provincias con mayor densidad de población, como Buenos Aires y CABA, presentan una buena conectividad. Sin embargo, existen desafíos importantes para garantizar velocidades adecuadas en todas las localidades, especialmente en aquellas con menor acceso.
+
+**Oportunidades de expansión:**
+
+Las regiones montañosas y alejadas tienen un potencial significativo para mejorar la conectividad. Estas áreas representan objetivos estratégicos para el desarrollo de infraestructura y nuevos servicios.
+
+**Desigualdad en el acceso:**
+
+Las provincias con baja velocidad y escasos accesos deben ser consideradas áreas prioritarias para la inversión. Incrementar la infraestructura en estas zonas podría no solo mejorar la calidad del servicio, sino también aumentar la cobertura de la empresa y, en última instancia, contribuir al desarrollo social y económico de las comunidades locales.
+
 
 ### Dashboard
 
