@@ -97,7 +97,7 @@ Las provincias con baja velocidad y escasos accesos deben ser consideradas área
 
 
 ### Dashboard
-
+https://juanveller-pida-home-t9s84m.streamlit.app/
 ### **Autor**
 
 Juan José Veller:  https://www.linkedin.com/in/juan-veller/ --- juanveller@gmail.com
